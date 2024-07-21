@@ -47,7 +47,7 @@ Good example:
 
 ```python
 if error:
-    raise CustomError("Some custom error message.")
+    raise CustomError("We have an error on the line 16.")
 ```
 
 Bad examples:
